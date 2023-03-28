@@ -31,3 +31,5 @@
 /Users/aturner/work/dotnet-rpg/obj/Debug/net7.0/dotnet-rpg.pdb
 /Users/aturner/work/dotnet-rpg/obj/Debug/net7.0/dotnet-rpg.genruntimeconfig.cache
 /Users/aturner/work/dotnet-rpg/obj/Debug/net7.0/ref/dotnet-rpg.dll
+/Users/aturner/work/dotnet-rpg/bin/Debug/net7.0/AutoMapper.dll
+/Users/aturner/work/dotnet-rpg/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
