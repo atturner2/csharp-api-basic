@@ -37,6 +37,8 @@ public class CharacterService : ICharacterService
         serviceResponse.Data = _mapper.Map<GetCharacterDto>(character);
         return serviceResponse;
     }
+    //basically this is mapping the DTO to the Character object and adding it to the list of characters. 
+    //It then constructs the 
 
     public async Task<ServiceResponse<List<GetCharacterDto>>> AddCharacter(AddCharacterDto newCharacter)
     {
