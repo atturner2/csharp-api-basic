@@ -96,5 +96,6 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
-
+// this just maps the http requests to the controllers
 app.Run();
+// This just runs the app
